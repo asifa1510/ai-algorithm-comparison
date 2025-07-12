@@ -2,7 +2,7 @@ import random
 import math
 
 def objective_function(x):
-    return x* math.sin(x)
+    return x* math.sin(x) 
 
 def create_individual(bounds):
     return random.uniform(*bounds)

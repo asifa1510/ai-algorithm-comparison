@@ -1,4 +1,4 @@
-**AI Algorithm Comparison**
+*AI Algorithm Comparison Repo*
 
 This project compares different AI search and optimization algorithms through Python code and simple experiments.
 
